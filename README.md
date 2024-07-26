@@ -1,4 +1,4 @@
-# yasirkhan
+# Yasir Hafeez Khan
 # About
 With over more than three years of dedicated experience in software development, I am a seasoned professional adept at architecting visually stunning and functionally robust websites. My expertise lies in crafting intuitive user interfaces that seamlessly merge design aesthetics with optimal user experience.
 
