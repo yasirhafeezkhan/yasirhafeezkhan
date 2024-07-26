@@ -1,9 +1,7 @@
 # Yasir Hafeez Khan
-With over more than three years of dedicated experience in software development, I am a seasoned professional adept at architecting visually stunning and functionally robust websites. My expertise lies in crafting intuitive user interfaces that seamlessly merge design aesthetics with optimal user experience.
+As a full-stack developer with over three years of dedicated experience, I specialize in architecting efficient and scalable back-end systems. My expertise includes server-side development with technologies such as Node.js, Express.js, NestJS, and MongoDB.
 
-Throughout my career journey, I've honed my skills in JavaScript and jQuery, enabling me to enhance user interactions and drive superior performance across web applications. Transitioning into a full-stack developer role two years ago, I've spearheaded the development of REST APIs, CRMs, and various software solutions, delivering tangible value to diverse projects and initiatives.
-
-My proficiency extends to server-side development with technologies such as Node.js, Express.js, NestJS and MongoDB, where I leverage their capabilities to architect efficient and scalable back-end systems. Whether it's REST APIs, CRMs, or various software solutions, I ensure seamless integration between front-end and back-end components to deliver high-performance applications.
+For the past two years, I have spearheaded the development of REST APIs, CRMs, and various software solutions, delivering tangible value to diverse projects and initiatives. Additionally, I have honed my skills in JavaScript, jQuery, and React.js to enhance user interactions and drive superior performance across web applications. Whether it's REST APIs, CRMs, or various software solutions, I ensure seamless integration between front-end and back-end components to deliver high-performance applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasirkhn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-khan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20522857) 
