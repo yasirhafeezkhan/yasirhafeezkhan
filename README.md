@@ -1,5 +1,4 @@
 # Yasir Hafeez Khan
-# About
 With over more than three years of dedicated experience in software development, I am a seasoned professional adept at architecting visually stunning and functionally robust websites. My expertise lies in crafting intuitive user interfaces that seamlessly merge design aesthetics with optimal user experience.
 
 Throughout my career journey, I've honed my skills in JavaScript and jQuery, enabling me to enhance user interactions and drive superior performance across web applications. Transitioning into a full-stack developer role two years ago, I've spearheaded the development of REST APIs, CRMs, and various software solutions, delivering tangible value to diverse projects and initiatives.
